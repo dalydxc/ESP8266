@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/app/include",
+                "${workspaceFolder}/include/espressif",
+                "${workspaceFolder}/app/utilities/adapter",
+                "${workspaceFolder}/include/lwip",
+                "${workspaceFolder}/app/platforms/joylink/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\MinGW\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\bin\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\gcc.exe",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
